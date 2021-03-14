@@ -1,0 +1,13 @@
+STRUCT
+	bVisited_WS1:BOOL;
+	bVisited_WS2:BOOL;
+	bVisited_WS3:BOOL;
+	
+	bPresent_in_WS1:BOOL;
+	bPresent_in_WS2:BOOL;
+	bPresent_in_WS3:BOOL;
+	
+	bPlt_remove:BOOL; 
+	
+END_STRUCT
+END_TYPE
